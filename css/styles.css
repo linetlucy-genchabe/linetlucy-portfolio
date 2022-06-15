@@ -41,6 +41,7 @@ nav li {
 
 nav a {
     color: rgb(49, 49, 68);
+    font-weight: bolder;
     text-decoration: none;
     text-transform: uppercase;
 }
@@ -54,7 +55,7 @@ nav a:hover {
 /* header section */
 
 header {
-    background: linear-gradient(180deg, rgb(255, 255, 255), rgb(158, 157, 238));
+    background: linear-gradient(180deg, rgb(250, 248, 253), rgb(111, 110, 179));
     font-size: 25px;
     padding: 15% 10%;
 }
