@@ -55,7 +55,7 @@ nav a:hover {
 /* header section */
 
 header {
-    background: linear-gradient(180deg, rgb(250, 248, 253), rgb(111, 110, 179));
+    background: linear-gradient(180deg, white, rgb(36, 145, 247));
     font-size: 25px;
     padding: 15% 10%;
 }
@@ -69,7 +69,7 @@ header h1 span {
 }
 
 header h1 span:hover {
-    color: palevioletred;
+    color: rgb(177, 78, 111);
 }
 
 
