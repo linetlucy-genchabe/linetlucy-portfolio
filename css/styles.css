@@ -114,13 +114,13 @@ header h1 span:hover {
 .work {
      background: linear-gradient(180deg, rgb(255, 255, 255), rgb(205, 237, 254),rgb(233, 246, 250));
 }
-
+/* 
 .work-items {
     display: flex;
-    /* flex-wrap: wrap; */
+     flex-wrap: wrap; 
     justify-content: space-between;
     margin-top: 30px;
-}
+} */
 
 .work-items img {
     margin-bottom: 30px;
